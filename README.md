@@ -29,7 +29,8 @@ As this is a web application, there's no installation necessary. You can access 
 ### Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository.
+<li> Fork the repository.
+<br />
 <li>Create your feature branch (git checkout -b feature/YourFeature).
 <br />
 <li>Commit your changes (git commit -am 'Add some feature').
