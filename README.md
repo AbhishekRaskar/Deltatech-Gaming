@@ -30,9 +30,14 @@ As this is a web application, there's no installation necessary. You can access 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository.
-Create your feature branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Create a new Pull Request.
-Credits
+<li>Create your feature branch (git checkout -b feature/YourFeature).
+<br />
+<li>Commit your changes (git commit -am 'Add some feature').
+<br />
+<li>Push to the branch (git push origin feature/YourFeature).
+<br />
+<li>Create a new Pull Request.
+<br />
+
+### Credits
 This application was developed by Abhishek Raskar. It utilizes the WeatherAPI for weather data.
