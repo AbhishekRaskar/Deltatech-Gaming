@@ -2,7 +2,7 @@
 ### Overview
 This weather application provides users with current weather information for their current location and a 5-day forecast. Additionally, users can also search for weather information in other locations by simply entering the name of that location.
 
-# Demo
+### Demo
 You can check out the deployed version of the application [here](https://splendorous-dodol-b95ddc.netlify.app/).
 
 ### Features
